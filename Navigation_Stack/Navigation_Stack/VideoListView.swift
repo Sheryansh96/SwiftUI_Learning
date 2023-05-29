@@ -18,7 +18,7 @@ struct VideoListView: View {
                 })
             }
             .listStyle(.plain)
-            .navigationTitle("Shreyansh's Top 10")
+            .navigationTitle("Shreyansh's Best Top 10")
         }
     }
 }
